@@ -15,3 +15,5 @@ Now what questions are we trying to answer from that data given to us?
 4. AIIMS in each State
 
 To address the aforementioned questions, the initial step involves ensuring the cleanliness of your data before commencing any analysis. Let's delve into the analytical process. To achieve a well-organized presentation of the AIIMS functionality, I employed the groupby technique, enabling me to group them according to my specifications. Additionally, for the leaders who played pivotal roles in establishing the AIIMS and operated in different years, I utilized the DAX function.
+
+Data visualization [https://adeyeyeadegboyega-my.sharepoint.com/:u:/g/personal/bushfigure_ace-sama_xyz/EWbSk2B1cIpBgsVmWnhltsABS0vxjTyUn-v8LDOYBMbb-A?e=epcCUM]
